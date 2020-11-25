@@ -6,7 +6,6 @@ programa
 	{
 		real raio, area = 1.12
 		const real Pi = 3.14
-		cadeia resp
 		
 		escreva("Qual o raio do círculo?: ")
 		leia(raio)
