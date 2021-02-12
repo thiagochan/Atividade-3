@@ -3,8 +3,9 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro a = 0, b = 1, result = 0
+		inteiro a = 0, b = 1, result = 1
 
+		escreva("0\n")
 		faca
 		{
 			escreva(result, "\n")
@@ -22,7 +23,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 191; 
+ * @POSICAO-CURSOR = 85; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
